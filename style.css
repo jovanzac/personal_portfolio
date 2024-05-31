@@ -171,7 +171,7 @@ dummy-p{
 .bg-img{
     position: absolute;
     width: 175rem;
-    top: calc(50% - 21.25rem);
+    top: calc(50% - 23.25rem);
     left: calc(50% + 0.625rem);
     z-index: 1;
 }
